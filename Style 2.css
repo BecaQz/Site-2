@@ -88,3 +88,9 @@ h1 h2 h3 h4 {
 .cards {
     background-color: rgb(243, 238, 238);
 }
+
+
+.btn-primary{ background-color: #8a5a01;
+}
+
+p{color: black;}
