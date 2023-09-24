@@ -1,0 +1,90 @@
+/*resetar css*/
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Bitter', serif
+}
+
+body {
+    background-color: rgb(243, 238, 238);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    align-items: center;
+    background-color: #F5DEB3;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.nav{text-align: center;  
+
+
+height: 50px;
+
+width: 150px;}
+
+.left-side-menu {
+    display: flex;
+    margin-right: 100px;
+    gap: 200px
+}
+
+
+.right-side-menu {
+    display: flex;
+    margin-right: 0px;
+    align-items: center;
+    gap: 50px
+}
+
+
+.material-symbols-outlined {
+    align-items: center;
+}
+
+
+.carousel {
+    max-height: 500px;
+
+    width: 100%;
+}
+
+
+main {
+    margin: 50px;
+}
+
+/*Não Mexe*/
+.card {
+    display: inline-block;
+    justify-content: center;
+    margin: 15px;
+}
+
+.custom-btm {
+    background-color: #F5DEB3;
+}
+
+
+h1 h2 h3 h4 {
+    font-family: 'Bitter', serif;
+}
+
+
+.cards {
+    background-color: rgb(243, 238, 238);
+}
